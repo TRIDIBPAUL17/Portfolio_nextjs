@@ -63,13 +63,13 @@ export const projectsData = [
     date: "2024-07-25",
     demoLink: "https://crm-stats.netlify.app/",
   },
-  // {
-  //   id: 8,
-  //   name: "TechTalk",
-  //   description: "Tech news aggregator",
-  //   date: "2022-11-05",
-  //   demoLink: "https://techtalk.example.com",
-  // },
+  {
+    id: 8,
+    name: "Password Generator",
+    description: "Using React JS",
+    date: "2024-11-06",
+    demoLink: "https://genpass-reactjs.vercel.app/",
+  },
   // {
   //   id: 9,
   //   name: "FitTrack",
@@ -113,7 +113,7 @@ export const BtnList = [
     link: "https://x.com/tridibrup17?t=YHRVV9ohGulEMnnFQv3Xvg&s=08",
     icon: "twitter",
     newTab: true,
-  },
+  }, 
   {
     label: "Resume",
     link: "/resume.pdf",
