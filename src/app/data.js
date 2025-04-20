@@ -16,60 +16,68 @@ Websites:
 export const projectsData = [
   {
     id: 1,
+    name: "Cryptography",
+    description: "",
+    date: "2022-07-19",
+    demoLink: "https://github.com/TRIDIBPAUL17/Project/tree/main/Cryptography",
+  },
+  {
+    id: 2,
     name: "Muse Station",
     description: "Welcome to the world of music!!!!!",
     date: "2022-06-15",
     demoLink: "https://musestation1.netlify.app/",
   },
   {
-    id: 2,
-    name: "Code Editor",
-    description: "Welcome to Editor!!!!",
-    date: "2023-08-20",
-    demoLink: "https://webdev-codeeditor.netlify.app/",
-  },
-  {
     id: 3,
-    name: "Cryptography",
-    description: "",
-    date: "2023-07-19",
-    demoLink: "https://github.com/TRIDIBPAUL17/Project/tree/main/Cryptography",
-  },
-  {
-    id: 4,
     name: "Portfolio",
     description: "Created using HTML  ,CSS and JS",
-    date: "2023-05-30",
+    date: "2022-11-30",
     demoLink: "https://main--peaceful-syrniki-403168.netlify.app/",
   },
   {
+    id: 4,
+    name: "Text-Editor",
+    description: "Using HTML,CSS,JS",
+    date: "2023-06-08",
+    demoLink: "https://txt-editor1.netlify.app/",
+  },
+  {
     id: 5,
-    name: "Portfolio",
-    description: "Created using NEXTJS  ,THREE JS and TAILWIND CSS",
-    date: "2024-07-12",
-    demoLink: "https://portfolio-nextjs-psi-murex.vercel.app/",
+    name: "Password Generator",
+    description: "Using React JS",
+    date: "2023-08-07",
+    demoLink: "https://genpass-reactjs.vercel.app/",
   },
   {
     id: 6,
-    name: "Text-Editor",
-    description: "Using HTML,CSS,JS",
-    date: "2024-09-06",
-    demoLink: "https://txt-editor1.netlify.app/",
+    name: "Code Editor",
+    description: "Welcome to Editor!!!!",
+    date: "2024-01-20",
+    demoLink: "https://webdev-codeeditor.netlify.app/",
   },
   {
     id: 7,
     name: "CRM-Stats Page",
     description: "NextJS",
-    date: "2024-07-25",
+    date: "2024-03-25",
     demoLink: "https://crm-stats.netlify.app/",
   },
   {
     id: 8,
-    name: "Password Generator",
-    description: "Using React JS",
-    date: "2024-11-06",
-    demoLink: "https://genpass-reactjs.vercel.app/",
+    name: "Flashkeys",
+    description: "Test your typing skills with speed and accuracy! 🔥",
+    date: "2024-05-22",
+    demoLink: "https://flashkeys.vercel.app/",
   },
+  {
+    id: 9,
+    name: "Portfolio",
+    description: "Created using NEXTJS  ,THREE JS and TAILWIND CSS",
+    date: "2024-07-12",
+    demoLink: "https://portfolio-nextjs-sih8.vercel.app/",
+  }
+
   // {
   //   id: 9,
   //   name: "FitTrack",
@@ -121,5 +129,7 @@ export const BtnList = [
     newTab: true,
   },
 ];
+
+
 
 
