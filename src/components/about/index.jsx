@@ -92,15 +92,15 @@ const AboutDetails = () => {
       <div className="text-left space-y-3 text-white text-lg">
         <p>• Qualified for the 3rd round of Flipkart GRID 5.0 (2023)</p>
         <p>• Completed 50+ skill batches in Google Cloud</p>
-        <p>
+        {/* <p>
   • Received <span className="font-semibold text-yellow-400">3 On-Campus Placement Offers</span>:
 </p>
 <ul className="list-disc list-inside space-y-1 pl-4">
   <li className="text-green-400 font-medium">TCS PRIME</li>
   <li className="text-blue-400 font-medium">Tiger Analytics</li>
   <li className="text-purple-400 font-medium">Cognizant GenC</li>
-</ul>
-
+</ul> */}
+          <p>• Qualified <b>GATE 2025</b> in Computer Science and Information Technology </p>
       </div>
       <img
         src="/image5.png"
