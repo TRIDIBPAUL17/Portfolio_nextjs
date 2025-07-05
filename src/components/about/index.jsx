@@ -92,7 +92,7 @@ const AboutDetails = () => {
       <div className="text-left space-y-3 text-white text-lg">
         <p>• Qualified for the 3rd round of Flipkart GRID 5.0 (2023)</p>
         <p>• Completed 50+ skill batches in Google Cloud</p>
-        <p>Graduated with a CGPA of 8.88 from NSEC (B.Tech CSE, 2024)</p>
+        <p>• Graduated with a CGPA of 8.88 from NSEC (B.Tech CSE, 2024)</p>
         {/* <p>
   • Received <span className="font-semibold text-yellow-400">3 On-Campus Placement Offers</span>:
 </p>
