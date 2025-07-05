@@ -76,15 +76,14 @@ export const projectsData = [
     description: "Created using NEXTJS  ,THREE JS and TAILWIND CSS",
     date: "2024-07-12",
     demoLink: "https://portfolio-nextjs-sih8.vercel.app/",
-  }
-
-  // {
-  //   id: 9,
-  //   name: "FitTrack",
-  //   description: "Fitness and workout tracker",
-  //   date: "2022-03-22",
-  //   demoLink: "https://fittrack.example.com",
-  // },
+  },
+  {
+    id: 10,
+    name: "Eduminati",
+    description: "E-learning Platform",
+    date: "2025-05-24",
+    demoLink: "https://github.com/Dozzergeeky/eduminati_final",
+  },
   // {
   //   id: 10,
   //   name: "MindfulMoments",
@@ -129,7 +128,5 @@ export const BtnList = [
     newTab: true,
   },
 ];
-
-
 
 
