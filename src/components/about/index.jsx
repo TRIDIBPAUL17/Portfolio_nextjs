@@ -16,7 +16,7 @@ const AboutDetails = () => {
   <div className="text-left space-y-2">
     <p className="text-xl">• Web developer</p>
     <p className="text-xl">• Tech enthusiast</p>
-    <p className="text-xl">• BTECH CSE Student at NSEC</p>
+    <p className="text-xl">• B.Tech CSE Graduate from NSEC (Batch 2021-2025)</p>
     <p className="text-xl">• 4 Star C++ coder at HackerRank</p>
     <p className="text-xl">• Technical Head of NSEC Sports Community during 3rd year (2023-2024)</p>
   </div>
@@ -92,6 +92,7 @@ const AboutDetails = () => {
       <div className="text-left space-y-3 text-white text-lg">
         <p>• Qualified for the 3rd round of Flipkart GRID 5.0 (2023)</p>
         <p>• Completed 50+ skill batches in Google Cloud</p>
+        <p>Graduated with a CGPA of 8.88 from NSEC (B.Tech CSE, 2024)</p>
         {/* <p>
   • Received <span className="font-semibold text-yellow-400">3 On-Campus Placement Offers</span>:
 </p>
