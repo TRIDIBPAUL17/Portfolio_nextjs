@@ -82,7 +82,7 @@ export const projectsData = [
     name: "Eduminati",
     description: "E-learning Platform",
     date: "2025-05-24",
-    demoLink: "https://github.com/Dozzergeeky/eduminati_final",
+    demoLink: "https://eduminati-final.vercel.app/",
   },
   // {
   //   id: 10,
